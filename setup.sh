@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+# Auto-remediation comment for Pull-request
 # Make sure we are in the project root directory
 cd "$(dirname "$0")"
 
